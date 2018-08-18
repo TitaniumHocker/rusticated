@@ -18,9 +18,8 @@
 
 <tr><td>
 
-<h5>First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme<br>
-    evoking the darkness of night (with a deep blue background, as of twilight) or the brightness<br>
-    of full daylight (with an off-white background, as of a bright cloudy sky). Then came rusticated,<br>
+<h5>First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking<br>
+    the darkness of night (with a deep blue background, as of twilight) or<br>the brightness of full daylight (with an off-white background, as of a bright cloudy sky). Then came rusticated,<br>
     to walk a middle path of gentle sepia warmth, calling to mind the transitional light of rising mornings<br>
     and sinking afternoons. Thus together, the two themes follow the course of a full day.</h5>
 
