@@ -22,7 +22,7 @@
 
 <h5>Then came rusticated, to walk a middle path of<br>gentle sepia warmth, calling to mind the transitional<br>light of rising mornings and sinking afternoons.</h5>
 
-<h5>Blue, as the most neutral cool tint, could be described<br>as evoking sky, water, and all the cool-colored things of nature.<br>Brown, the most neutral warm tint, speaks of soil, wood,<br>and all the warm-colored things.</h5>
+<h5>Blue, as the most neutral cool tint, could be described as<br> evoking sky, water, and all the cool-colored things of nature.<br>Brown, the most neutral warm tint, speaks of soil, wood,<br>and all the warm-colored things.</h5>
 
 <h5></h5>
 
