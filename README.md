@@ -18,9 +18,13 @@
 
 <tr><td>
 
-<h5>First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking the<br>darkness of night (with a deep blue background, as of a<br>twilight sky) or the brightness of full daylight (with an off-white<br>background, as of a bright cloudy sky). Then came rusticated, to<br>walk a middle path of gentle sepia warmth, calling to mind the<br>transitional light of rising mornings and sinking afternoons.<br>Thus, together, the two themes follow the course of a full day.</h5>
+<h5>First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking the<br>darkness of night (with a deep blue background, as of a twilight<br>sky) or the brightness of full daylight (with an off-white<br>background, as of a bright cloudy sky).</h5>
 
-<h5>They also complement one another in terms of evocation of<br>nature, via color temperature. Blue, as the most neutral cool tint,<br>could be described as evoking sky, water, foliage, and all the<br>cool-colored things of the world. Brown, the most neutral warm<br>tint, speaks of soil, wood, fur, and all the warm-colored things.</h5>
+<h5>Then came rusticated, to walk a middle path of gentle<br>sepia warmth, calling to mind the transitional<br>light of rising mornings and sinking afternoons.</h5>
+
+<h5>Blue, as the most neutral cool tint, could be described as<br>evoking sky and water, and all the cool-colored things of nature. Brown,<br>the most neutral warm tint, speaks of soil and wood, and all the warm-colored things.</h5>
+
+<h5></h5>
 
 </td></tr>
 
