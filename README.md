@@ -19,12 +19,16 @@
 <td><code>Identifier</code></td>
 </tr>
 
+<tr></tr>
+
 <tr>
 <td><code>ColorColumn</code></td>
 <td><img src='http://www.colorhexa.com/ccbdae.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/804d07.png' height='24' width='39'></td>
 <td><code>Special</code></td>
 </tr>
+
+<tr></tr>
 
 <tr>
 <td><code>MatchParen</code></td>
@@ -33,6 +37,8 @@
 <td><code>Statement</code></td>
 </tr>
 
+<tr></tr>
+
 <tr>
 <td><code>Comment</code></td>
 <td><img src='http://www.colorhexa.com/695644.png' height='24' width='39'></td>
@@ -40,12 +46,16 @@
 <td><code>PreProc</code></td>
 </tr>
 
+<tr></tr>
+
 <tr>
 <td><code>Normal fg</code></td>
 <td><img src='http://www.colorhexa.com/453524.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/005c99.png' height='24' width='39'></td>
 <td><code>Constant</code></td>
 </tr>
+
+<tr></tr>
 
 <tr>
 <td><code>Cursor</code></td>
