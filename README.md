@@ -13,7 +13,7 @@
 <td rowspan='6'>
 <br>
 <img alt="screenshot of the rusticated vim theme" src="https://github.com/nightsense/rusticated/raw/master/images/screenshot.png" width="422" />
-<br>
+<br><br>
 </td>
 <td><img src='http://www.colorhexa.com/9e2f52.png' height='24' width='39'></td>
 <td><code>Identifier</code></td>
