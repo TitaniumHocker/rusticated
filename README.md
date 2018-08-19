@@ -10,7 +10,7 @@
 <tr>
 <td><code>Normal bg</code></td>
 <td><img src='http://www.colorhexa.com/dacfc4.png' height='24' width='39'></td>
-<td rowspan='6'>
+<td rowspan='11'>
 <br>
 <img alt="screenshot of the rusticated vim theme" src="https://github.com/nightsense/rusticated/raw/master/images/screenshot.png" width="422" />
 <br><br>
