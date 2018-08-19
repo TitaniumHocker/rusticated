@@ -1,6 +1,6 @@
 <table><tbody align="center">
 
-<tr><td><h1>rusticated</h1>
+<tr><td colspan='5'><h1>rusticated</h1>
 <img src="https://github.com/nightsense/rusticated/raw/master/images/header.jpg" />
 <h4>a rusty vim theme for sharp coding</h4>
 </td></tr>
@@ -8,15 +8,55 @@
 <tr></tr>
 
 <tr>
-<td>
+<td><code>Normal bg</code></td>
+<td><img src='http://www.colorhexa.com/dacfc4.png' height='24' width='39'></td>
+<td rowspan='6'>
 <br>
 <img alt="screenshot of the rusticated vim theme" src="https://github.com/nightsense/rusticated/raw/master/images/screenshot.png" width="422" />
 <br>
 </td>
+<td><img src='http://www.colorhexa.com/9e2f52.png' height='24' width='39'></td>
+<td><code>Identifier</code></td>
+</tr>
+
+<tr>
+<td><code>ColorColumn</code></td>
+<td><img src='http://www.colorhexa.com/ccbdae.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/804d07.png' height='24' width='39'></td>
+<td><code>Special</code></td>
+</tr>
+
+<tr>
+<td><code>MatchParen</code></td>
+<td><img src='http://www.colorhexa.com/b29d89.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/31640f.png' height='24' width='39'></td>
+<td><code>Statement</code></td>
+</tr>
+
+<tr>
+<td><code>Comment</code></td>
+<td><img src='http://www.colorhexa.com/695644.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/00645b.png' height='24' width='39'></td>
+<td><code>PreProc</code></td>
+</tr>
+
+<tr>
+<td><code>Normal fg</code></td>
+<td><img src='http://www.colorhexa.com/453524.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/005c99.png' height='24' width='39'></td>
+<td><code>Constant</code></td>
+</tr>
+
+<tr>
+<td><code>Cursor</code></td>
+<td><img src='http://www.colorhexa.com/2b1d0c.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/6d4697.png' height='24' width='39'></td>
+<td><code>Type</code></td>
+</tr>
 
 <tr></tr>
 
-<tr><td>
+<tr><td colspan='5'>
 
 <h5>First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking<br>the darkness of night (with a deep blue background, as<br>of a twilight sky) or the brightness of full daylight (with<br>an off-white background, as of a bright cloudy sky).</h5>
 
