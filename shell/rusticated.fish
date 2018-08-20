@@ -1,10 +1,10 @@
 # rusticated fish shell theme by nightsense (https://github.com/nightsense/rusticated)
 
 # normal text
-set fish_color_host              453524
-set fish_color_normal            453524
-set fish_pager_color_completion  453524
-set fish_pager_color_description 453524
+set fish_color_host              4b3a29
+set fish_color_normal            4b3a29
+set fish_pager_color_completion  4b3a29
+set fish_pager_color_description 4b3a29
 
 # muted text
 set fish_color_autosuggestion    695644
