@@ -263,7 +263,7 @@ cro_ltacnt = phic(1.50)
 
 hexgry0_lt = tohex( phic(0.37) , phic(5.50) , hue_gold )
 hexgry1_lt = tohex( phic(0.53) , phic(4.75) , hue_gold )
-hexgryp_lt = tohex( phic(0.86) , phic(4.00) , hue_gold )
+hexgryp_lt = tohex( phic(0.91) , phic(4.00) , hue_gold )
 hexgry2_lt = tohex( phic(2.00) , phic(4.00) , hue_gold )
 hexgry3_lt = tohex( phic(2.79) , phic(4.00) , hue_gold )
 hexgryc_lt = tohex( phic(4.36) , phic(4.00) , hue_gold )

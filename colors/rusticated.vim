@@ -49,7 +49,7 @@ hi CursorColumn ctermfg=NONE ctermbg=250 guifg=NONE guibg=#ccbdae guisp=NONE cte
 hi CursorLine ctermfg=NONE ctermbg=250 guifg=NONE guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
 hi DiffChange ctermfg=NONE ctermbg=250 guifg=NONE guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
 hi Folded ctermfg=NONE ctermbg=250 guifg=NONE guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
-hi MatchParen ctermfg=234 ctermbg=180 guifg=#2b1d0c guibg=#b29d89 guisp=NONE cterm=NONE gui=NONE
+hi MatchParen ctermfg=234 ctermbg=137 guifg=#2b1d0c guibg=#ad9985 guisp=NONE cterm=NONE gui=NONE
 hi Pmenu ctermfg=237 ctermbg=250 guifg=#4b3a29 guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
 hi QuickFixLine ctermfg=NONE ctermbg=250 guifg=NONE guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
 hi StatusLineNC ctermfg=237 ctermbg=250 guifg=#4b3a29 guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
@@ -57,11 +57,11 @@ hi StatusLineTermNC ctermfg=237 ctermbg=250 guifg=#4b3a29 guibg=#ccbdae guisp=NO
 hi TabLine ctermfg=237 ctermbg=250 guifg=#4b3a29 guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
 hi ToolbarButton ctermfg=237 ctermbg=250 guifg=#4b3a29 guibg=#ccbdae guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi WildMenu ctermfg=237 ctermbg=250 guifg=#4b3a29 guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
-hi PmenuSbar ctermfg=180 ctermbg=180 guifg=#b29d89 guibg=#b29d89 guisp=NONE cterm=NONE gui=NONE
+hi PmenuSbar ctermfg=137 ctermbg=137 guifg=#ad9985 guibg=#ad9985 guisp=NONE cterm=NONE gui=NONE
 hi PmenuThumb ctermfg=237 ctermbg=237 guifg=#4b3a29 guibg=#4b3a29 guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=250 ctermbg=250 guifg=#ccbdae guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=250 ctermbg=250 guifg=#ccbdae guibg=#ccbdae guisp=NONE cterm=NONE gui=NONE
-hi VertSplit ctermfg=180 ctermbg=180 guifg=#b29d89 guibg=#b29d89 guisp=NONE cterm=NONE gui=NONE
+hi VertSplit ctermfg=137 ctermbg=137 guifg=#ad9985 guibg=#ad9985 guisp=NONE cterm=NONE gui=NONE
 hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#bf003a cterm=NONE,underline gui=NONE,undercurl
 hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#005cdd cterm=NONE,underline gui=NONE,undercurl
 hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#005f59 cterm=NONE,underline gui=NONE,undercurl
@@ -120,7 +120,7 @@ finish
 " Color:      gryc #2b1d0c ~
 " Color:      srch #cea172 ~
 " Color:      grys #2b1d0c ~
-" Color:      gryp #b29d89 ~
+" Color:      gryp #ad9985 ~
 " Color:      sprd #bf003a ~
 " Color:      spbl #005cdd ~
 " Color:      spcy #005f59 ~
