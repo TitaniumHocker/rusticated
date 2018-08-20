@@ -32,7 +32,7 @@
 
 <tr>
 <td><code>MatchParen</code></td>
-<td><img src='http://www.colorhexa.com/b29d89.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/ad9985.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/31640f.png' height='24' width='39'></td>
 <td><code>Statement</code></td>
 </tr>
@@ -50,7 +50,7 @@
 
 <tr>
 <td><code>Normal fg</code></td>
-<td><img src='http://www.colorhexa.com/453524.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/4b3a29.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/005c99.png' height='24' width='39'></td>
 <td><code>Constant</code></td>
 </tr>
