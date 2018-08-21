@@ -74,7 +74,7 @@ First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, b
 
 Then came rusticated, embracing a middle path of gentle sepia warmth, calling to mind the transitional light<br>of rising mornings and falling evenings.
 
-Blue, as the most neutral cool tint, could be described as subtly evoking sky, water, and all the cool-colored things<br>of nature. Brown, the most neutral warm tint, speaks of soil, wood, and all the warm-colored things.
+Blue, as the most neutral cool tone, could be described as subtly evoking sky, water, and all the cool-colored<br>things of nature. Brown, the most neutral warm tone, speaks of soil, wood, and all the warm-colored things.
 
 Thus do snow and rusticated complete one another: yin and yang, edge and middle, cool and warm.<br>The metal and rust of a trusty saw blade, ready to hew blocks of code for monumental applications.
 
