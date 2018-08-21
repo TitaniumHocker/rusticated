@@ -68,13 +68,13 @@
 
 <tr><td colspan='5'>
 
-<h5>First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking<br>the darkness of night (with a deep blue background, as<br>of a twilight sky) or the brilliance of full daylight (with<br>an off-white background, as of a bright cloudy sky).</h5>
+First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking<br>the darkness of night (with a deep blue background, as<br>of a twilight sky) or the brilliance of full daylight (with<br>an off-white background, as of a bright cloudy sky).
 
-<h5>Then came rusticated, embracing a middle path of<br>gentle sepia warmth, calling to mind the transitional<br>light of rising mornings and falling evenings.</h5>
+Then came rusticated, embracing a middle path of<br>gentle sepia warmth, calling to mind the transitional<br>light of rising mornings and falling evenings.
 
-<h5>Blue, as the most neutral cool tint, could be described<br>as subtly evoking sky, water, and all the cool-colored<br>things of nature. Brown, the most neutral warm tint,<br>speaks of soil, wood, and all the warm-colored things.</h5>
+Blue, as the most neutral cool tint, could be described<br>as subtly evoking sky, water, and all the cool-colored<br>things of nature. Brown, the most neutral warm tint,<br>speaks of soil, wood, and all the warm-colored things.
 
-<h5>Thus do snow and rusticated complete one another:<br>yin and yang, edge and middle, cool and warm. The<br>metal and rust of a well-used saw blade, ready to hew<br>blocks of code for monumental applications.</h5>
+Thus do snow and rusticated complete one another:<br>yin and yang, edge and middle, cool and warm. The<br>metal and rust of a well-used saw blade, ready to hew<br>blocks of code for monumental applications.
 
 </td></tr>
 
