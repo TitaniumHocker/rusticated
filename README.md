@@ -72,7 +72,7 @@
 
 First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking the darkness of night (with a deep blue background,<br>as of a twilight sky) or the brilliance of full daylight (with an off-white background, as of a bright cloudy sky).
 
-Then came rusticated, taking a middle path of gentle sepia warmth, calling to mind the transitional light of<br>rising mornings and falling evenings. A canvas of earthy autumn (rather than frosty winter) for a landscape<br>of text, both plain and accented, the latter emphasized with vibrant colors ringing of spring and summer.
+Then came rusticated, taking a middle path of gentle sepia warmth, calling to mind the transitional light of<br>rising mornings and falling evenings. A canvas of earthy autumn (rather than frosty winter) for a landscape<br>of text, both plain and accented, the latter emphasized with colors ringing of vibrant spring and summer.
 
 Blue, as the most neutral cool tone, could be described as subtly evoking sky, water, and all the cool-colored<br>things of nature. Brown, the most neutral warm tone, speaks of soil, wood, and all the warm-colored things.
 
