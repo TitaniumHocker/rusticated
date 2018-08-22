@@ -72,11 +72,11 @@
 
 First there was <a href='https://github.com/nightsense/snow'>snow</a>, a cool, blue-tinted theme evoking the darkness of night (with a deep blue background,<br>as of a twilight sky) or the brilliance of full daylight (with an off-white background, as of a bright cloudy sky).
 
-Then came rusticated, embracing a middle path of gentle sepia warmth, calling to mind the transitional light<br>of rising mornings and falling evenings.
+Then came rusticated, taking a middle path of gentle sepia warmth, calling to mind the transitional light<br>of rising mornings and falling evenings.
 
 Blue, as the most neutral cool tone, could be described as subtly evoking sky, water, and all the cool-colored<br>things of nature. Brown, the most neutral warm tone, speaks of soil, wood, and all the warm-colored things.
 
-Thus do snow and rusticated complete one another: yin and yang, edge and middle, cool and warm.<br>The metal and rust of a trusty saw blade, ready to hew blocks of code for monumental applications.
+Thus do snow and rusticated complete one another: yin and yang, edge and middle, cold and heat.<br>The metal and rust of a trusty saw blade, hewing blocks of code for monumental applications.
 
 </td></tr>
 
