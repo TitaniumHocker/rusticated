@@ -6,24 +6,24 @@ Short name:      rusticated
 Terminal Colors: 256
 
 Background: light
-Color:      gry0 #dacfc4 ~
-Color:      gry1 #ccbdae ~
-Color:      gry2 #695644 ~
-Color:      gry3 #4b3a29 ~
-Color:      gryc #2b1d0c ~
-Color:      srch #cea172 ~
-Color:      grys #2b1d0c ~
-Color:      gryp #ad9985 ~
-Color:      sprd #bf003a ~
-Color:      spbl #005cdd ~
-Color:      spcy #005f59 ~
-Color:      spmg #6006c8 ~
-Color:      red_ #9e2f52 ~
-Color:      gold #804d07 ~
-Color:      gren #31640f ~
-Color:      cyan #00645b ~
-Color:      blue #005c99 ~
-Color:      mgnt #6d4697 ~
+Color:      gry0 #d7cfc7 ~
+Color:      gry1 #c8bfb4 ~
+Color:      gry2 #62584c ~
+Color:      gry3 #433c33 ~
+Color:      gryc #1b160f ~
+Color:      srch #c8a46f ~
+Color:      grys #1b160f ~
+Color:      gryp #9e9486 ~
+Color:      sprd #bd0029 ~
+Color:      spbl #0059e4 ~
+Color:      spcy #00606e ~
+Color:      spmg #7b00b9 ~
+Color:      red_ #9f3249 ~
+Color:      gold #795200 ~
+Color:      gren #22671b ~
+Color:      cyan #006466 ~
+Color:      blue #005b9e ~
+Color:      mgnt #794392 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/rusticated.vim

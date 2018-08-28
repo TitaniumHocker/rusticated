@@ -252,28 +252,28 @@ def print_fish(name,bg):
   print 'set fish_pager_color_prefix      @guimgnt'
   print 'endauxfile'
 
-hue_red_ = 007.5
-hue_gold = 067.5
-hue_gren = 127.5
-hue_cyan = 187.5
-hue_blue = 247.5
-hue_mgnt = 307.5
+hue_red_ = 015.0
+hue_gold = 075.0
+hue_gren = 135.0
+hue_cyan = 195.0
+hue_blue = 255.0
+hue_mgnt = 315.0
 
 cro_ltacnt = phic(1.50)
 
-hexgry0_lt = tohex( phic(0.37) , phic(5.50) , hue_gold )
-hexgry1_lt = tohex( phic(0.53) , phic(4.75) , hue_gold )
-hexgryp_lt = tohex( phic(0.91) , phic(4.00) , hue_gold )
-hexgry2_lt = tohex( phic(2.00) , phic(4.00) , hue_gold )
-hexgry3_lt = tohex( phic(2.79) , phic(4.00) , hue_gold )
-hexgryc_lt = tohex( phic(4.36) , phic(4.00) , hue_gold )
+hexgry0_lt = tohex( phic(0.37) , phic(6.00) , hue_gold )
+hexgry1_lt = tohex( phic(0.52) , phic(5.50) , hue_gold )
+hexgryp_lt = tohex( phic(1.00) , phic(5.00) , hue_gold )
+hexgry2_lt = tohex( phic(2.00) , phic(5.00) , hue_gold )
+hexgry3_lt = tohex( phic(2.80) , phic(5.50) , hue_gold )
+hexgryc_lt = tohex( phic(5.31) , phic(6.00) , hue_gold )
 
-hexred__lt = tohex( phic(2.00) , cro_ltacnt , hue_red_ )
-hexgold_lt = tohex( phic(2.00) , cro_ltacnt , hue_gold )
-hexgren_lt = tohex( phic(2.03) , cro_ltacnt , hue_gren )
-hexcyan_lt = tohex( phic(2.18) , cro_ltacnt , hue_cyan )
-hexblue_lt = tohex( phic(2.21) , cro_ltacnt , hue_blue )
-hexmgnt_lt = tohex( phic(2.05) , cro_ltacnt , hue_mgnt )
+hexred__lt = tohex( phic(1.98) , cro_ltacnt , hue_red_ )
+hexgold_lt = tohex( phic(1.99) , cro_ltacnt , hue_gold )
+hexgren_lt = tohex( phic(2.00) , cro_ltacnt , hue_gren )
+hexcyan_lt = tohex( phic(2.17) , cro_ltacnt , hue_cyan )
+hexblue_lt = tohex( phic(2.17) , cro_ltacnt , hue_blue )
+hexmgnt_lt = tohex( phic(2.02) , cro_ltacnt , hue_mgnt )
 
 hexsrch_lt = tohex( phic(0.75) , phic(2.25) , hue_gold )
 
