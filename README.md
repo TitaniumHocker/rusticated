@@ -9,13 +9,13 @@
 
 <tr>
 <td><code>Normal bg</code></td>
-<td><img src='http://www.colorhexa.com/d7cfc7.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/d3d0cc.png' height='24' width='39'></td>
 <td rowspan='11'>
 <br>
 <img alt="screenshot of the rusticated vim theme" src="https://github.com/nightsense/rusticated/raw/master/images/screenshot.png" width="422" />
 <br><br>
 </td>
-<td><img src='http://www.colorhexa.com/9f3249.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/874749.png' height='24' width='39'></td>
 <td><code>Identifier</code></td>
 </tr>
 
@@ -23,8 +23,8 @@
 
 <tr>
 <td><code>ColorColumn</code></td>
-<td><img src='http://www.colorhexa.com/c8bfb4.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/795200.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/c4c1bb.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/6b5729.png' height='24' width='39'></td>
 <td><code>Special</code></td>
 </tr>
 
@@ -32,8 +32,8 @@
 
 <tr>
 <td><code>MatchParen</code></td>
-<td><img src='http://www.colorhexa.com/9e9486.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/22671b.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/9a9283.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/35633a.png' height='24' width='39'></td>
 <td><code>Statement</code></td>
 </tr>
 
@@ -41,8 +41,8 @@
 
 <tr>
 <td><code>Comment</code></td>
-<td><img src='http://www.colorhexa.com/62584c.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/006466.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/60594b.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/00646a.png' height='24' width='39'></td>
 <td><code>PreProc</code></td>
 </tr>
 
@@ -50,8 +50,8 @@
 
 <tr>
 <td><code>Normal fg</code></td>
-<td><img src='http://www.colorhexa.com/433c33.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/005b9e.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/463f32.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/325c89.png' height='24' width='39'></td>
 <td><code>Constant</code></td>
 </tr>
 
@@ -59,8 +59,8 @@
 
 <tr>
 <td><code>Cursor</code></td>
-<td><img src='http://www.colorhexa.com/1b160f.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/794392.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/322c20.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/744b78.png' height='24' width='39'></td>
 <td><code>Type</code></td>
 </tr>
 
