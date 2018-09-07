@@ -2,7 +2,7 @@
 
 <tr><td colspan='5'><h1>rusticated</h1>
 <img src="https://github.com/nightsense/rusticated/raw/master/images/header.jpg" />
-<h4>a rusty vim theme for sharp coding</h4>
+<h4>a rusty theme for sharp coding</h4>
 </td></tr>
 
 <tr></tr>
