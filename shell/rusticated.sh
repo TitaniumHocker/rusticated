@@ -64,13 +64,13 @@ put_template 15 $color15
 # foreground / background / cursor color
 if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
-  put_template_custom Pg #444136 # foreground
-  put_template_custom Ph #d3d2ce # background
-  put_template_custom Pi #444136 # bold color
-  put_template_custom Pj #3c5a89 # selection color
-  put_template_custom Pk #d3d2ce # selected text color
-  put_template_custom Pl #444136 # cursor
-  put_template_custom Pm #d3d2ce # cursor text
+  put_template_custom Pg 444136 # foreground
+  put_template_custom Ph d3d2ce # background
+  put_template_custom Pi 444136 # bold color
+  put_template_custom Pj 3c5a89 # selection color
+  put_template_custom Pk d3d2ce # selected text color
+  put_template_custom Pl 444136 # cursor
+  put_template_custom Pm d3d2ce # cursor text
 else
   put_template_var 10 $color_foreground
   if [ "$BASE16_SHELL_SET_BACKGROUND" != false ]; then
