@@ -26,6 +26,46 @@ Color:      blue #3c5a89 ~
 Color:      mgnt #784872 ~
 Include:    _common.colortemplate
 
+verbatim
+if has("nvim")
+  let g:terminal_color_0 = "@guigry0"
+  let g:terminal_color_1 = "@guired_"
+  let g:terminal_color_2 = "@guigren"
+  let g:terminal_color_3 = "@guigold"
+  let g:terminal_color_4 = "@guiblue"
+  let g:terminal_color_5 = "@guimgnt"
+  let g:terminal_color_6 = "@guicyan"
+  let g:terminal_color_7 = "@guigry3"
+  let g:terminal_color_8 = "@guigry1"
+  let g:terminal_color_9 = "@guired_"
+  let g:terminal_color_10 = "@guigren"
+  let g:terminal_color_11 = "@guigold"
+  let g:terminal_color_12 = "@guiblue"
+  let g:terminal_color_13 = "@guimgnt"
+  let g:terminal_color_14 = "@guicyan"
+  let g:terminal_color_15 = "@guigryc"
+elseif has("terminal")
+  let g:terminal_ansi_colors = [
+      \ "@guigry0",
+      \ "@guired_",
+      \ "@guigren",
+      \ "@guigold",
+      \ "@guiblue",
+      \ "@guimgnt",
+      \ "@guicyan",
+      \ "@guigry3",
+      \ "@guigry1",
+      \ "@guired_",
+      \ "@guigren",
+      \ "@guigold",
+      \ "@guiblue",
+      \ "@guimgnt",
+      \ "@guicyan",
+      \ "@guigryc"
+  \ ]
+endif
+endverbatim
+
 auxfile autoload/airline/themes/rusticated.vim
 let g:airline#themes#rusticated#palette = {}
 
