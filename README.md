@@ -8,7 +8,7 @@
 <tr></tr>
 
 <tr>
-<td><code>Normal bg</code></td>
+<td><code>Normal bg d3d2ce</code></td>
 <td><img src='http://www.colorhexa.com/d3d2ce.png' height='24' width='39'></td>
 <td rowspan='11'>
 <br>
@@ -16,52 +16,52 @@
 <br><br>
 </td>
 <td><img src='http://www.colorhexa.com/834742.png' height='24' width='39'></td>
-<td><code>Identifier</code></td>
+<td><code>Identifier 834742</code></td>
 </tr>
 
 <tr></tr>
 
 <tr>
-<td><code>ColorColumn</code></td>
+<td><code>ColorColumn c3c0ba</code></td>
 <td><img src='http://www.colorhexa.com/c3c0ba.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/645826.png' height='24' width='39'></td>
-<td><code>Special</code></td>
+<td><code>Special 645826</code></td>
 </tr>
 
 <tr></tr>
 
 <tr>
-<td><code>MatchParen</code></td>
+<td><code>MatchParen 989387</code></td>
 <td><img src='http://www.colorhexa.com/989387.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/2c633f.png' height='24' width='39'></td>
-<td><code>Statement</code></td>
+<td><code>Statement 2c633f</code></td>
 </tr>
 
 <tr></tr>
 
 <tr>
-<td><code>Comment</code></td>
+<td><code>Comment 5f5a4c</code></td>
 <td><img src='http://www.colorhexa.com/5f5a4c.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/006470.png' height='24' width='39'></td>
-<td><code>PreProc</code></td>
+<td><code>PreProc 006470</code></td>
 </tr>
 
 <tr></tr>
 
 <tr>
-<td><code>Normal fg</code></td>
+<td><code>Normal fg 444136</code></td>
 <td><img src='http://www.colorhexa.com/444136.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/3c5a89.png' height='24' width='39'></td>
-<td><code>Constant</code></td>
+<td><code>Constant 3c5a89</code></td>
 </tr>
 
 <tr></tr>
 
 <tr>
-<td><code>Cursor</code></td>
+<td><code>Cursor 312d23</code></td>
 <td><img src='http://www.colorhexa.com/312d23.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/784872.png' height='24' width='39'></td>
-<td><code>Type</code></td>
+<td><code>Type 784872</code></td>
 </tr>
 
 <tr></tr>
